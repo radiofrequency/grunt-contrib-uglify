@@ -1,1 +1,1 @@
-var myObj={a:function(dontMangleMeVariable){dontMangleMeVariable++},b:function(){},c:function(){}},dontMangleMeVariable2=function(){},dontMangleMeVariable3=function(){};
+var myObj={n:function(dontMangleMeVariable){0},e:function(){},o:function(){}},dontMangleMeVariable2=function(){},dontMangleMeVariable3=function(){};

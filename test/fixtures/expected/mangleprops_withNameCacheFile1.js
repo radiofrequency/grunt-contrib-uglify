@@ -1,1 +1,1 @@
-var a={a:function(a){a++},b:function(){},c:function(){}},b=function(){},c=function(){};
+var n={n:function(n){0},o:function(){},t:function(){}},o=function(){},t=function(){};

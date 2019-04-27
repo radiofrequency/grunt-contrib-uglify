@@ -1,6 +1,8 @@
-function longFunctionC(a, b) {
-    return longNameA + longNameB + a + b;
+var longNameA = 1, longNameB = 2;
+
+function longFunctionC(n, o) {
+    return longNameA + longNameB + n + o;
 }
 
-var longNameA = 1, longNameB = 2, result = longFunctionC(3, 4);
+var result = longFunctionC(3, 4);
 // This is a footer.
