@@ -154,6 +154,9 @@ module.exports = function(grunt) {
         grunt.fail.warn(err);
       }
 
+      if (result.warnings) {
+        grunt.log.warn(result.warnings);
+      }
       // Concat minified source + footer
       var output = result.min + footer;
 
